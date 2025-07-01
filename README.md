@@ -83,4 +83,5 @@ git clone https://github.com/hjc-03/green-bond-analysis.git
 I'm Haedam, a data-driven problem solver passionate about climate finance and sustainability.  
 This project showcases my skills in data analysis, SQL, and visualization tools.
 
-🔗 [LinkedIn](www.linkedin.com/in/haedam-cho-55a44a210)
+🔗 [LinkedIn](https://www.linkedin.com/in/haedam-cho-55a44a210)
+
