@@ -1,4 +1,4 @@
-# 🌱 The Green Bond Advantage
+# 🌱 Green Bond Performance and Market Reaction Analysis
 
 This project analyzes the financial and market behavior of green bonds compared to conventional bonds. It is divided into two parts:
 
