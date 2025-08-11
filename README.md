@@ -1,4 +1,4 @@
-# 🌱 Green Bond Performance and Market Reaction Analysis
+# Green Bond Performance and Market Reaction Analysis
 
 This project analyzes the financial and market behavior of green bonds compared to conventional bonds. It is divided into two parts:
 
@@ -7,7 +7,7 @@ This project analyzes the financial and market behavior of green bonds compared 
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Determine if green bonds differ in yield, volatility, or risk-adjusted returns
 - Measure the stock market reaction to green bond issuance announcements
@@ -15,7 +15,7 @@ This project analyzes the financial and market behavior of green bonds compared 
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Python**: pandas, NumPy, matplotlib, seaborn, statsmodels, yfinance
 - **SQL**: Data querying and preprocessing
@@ -34,22 +34,18 @@ This project analyzes the financial and market behavior of green bonds compared 
   - Sharpe Ratio
 - Conducted hypothesis testing to check for significant performance differences
 
-🖼️ *[Add image or dashboard preview here]*
-
 ---
 
-## 📈 Part II: Event Study on Market Impact
+## Part II: Event Study on Market Impact
 
 - Collected announcement dates of green bond issuances
 - Downloaded stock price data for issuing firms
 - Measured abnormal returns using event study methodology
 - Compared against control events (non-green bond announcements)
 
-🖼️ *[Add event study chart or CAR graph here]*
-
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 green-bond-analysis/
@@ -63,7 +59,7 @@ green-bond-analysis/
 
 ---
 
-## ✅ How to Run
+## How to Run
 
 1. Clone this repo:
 
@@ -78,7 +74,7 @@ git clone https://github.com/hjc-03/green-bond-analysis.git
 
 ---
 
-## 🙋 About Me
+## About Me
 
 I'm Haedam, a data-driven problem solver passionate about climate finance and sustainability.  
 This project showcases my skills in data analysis, SQL, and visualization tools.
