@@ -24,7 +24,7 @@ This project analyzes the financial and market behavior of green bonds compared 
 
 ---
 
-## 📊 Part I: Green vs. Conventional Bond Performance
+## Part I: Green vs. Conventional Bond Performance
 
 - Collected bond data from [insert source here]
 - Matched green and non-green bonds by issuer, rating, and duration
